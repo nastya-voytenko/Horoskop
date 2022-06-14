@@ -1,0 +1,54 @@
+
+body{
+    /* background-color: bisque; */
+    font-size: 20px;
+    background-image:url("gorosk.jpeg");
+    background-size: cover;
+
+}
+
+.buttonSee {
+    margin-left: 20px;
+    width: 150px;
+    height: 30px;
+    font-size: 13px;
+
+    background-color: white;
+    
+   
+}
+
+.buttonSee:hover{
+    background-color: rgba(214, 177, 225, 0.921);
+    transition: 0.2s;
+}
+
+#divHoroskopBox{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.642);
+}
+
+select{
+    width: 100px;
+    font-size: 17px;
+}
+
+#divHoroskopParagraph{
+    background-color: rgba(214, 177, 225, 0.78);
+   line-height: 30px;
+   font-family: 'Open Sans', sans-serif;
+   padding-left: 8px;
+   margin-top: 30px;
+}
+
+
+label{
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    
+}
+
